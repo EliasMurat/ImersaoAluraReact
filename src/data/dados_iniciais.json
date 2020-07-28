@@ -1,0 +1,189 @@
+{
+  "categorias": [
+    {
+      "titulo": "Java para Iniciantes",
+      "link": "https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR",
+      "cor": "#DC1A28",
+      "link_extra": {
+        "text": "Curso em Vídeo",
+        "url": "https://www.youtube.com/user/cursosemvideo"
+      },
+      "videos": [
+        {
+          "titulo": "O que é Java ?",
+          "url": "https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=1"
+        },
+        {
+          "titulo": "Exercícios de Java #01 - Curso de Java para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=ZBKxhnqX-Q0&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=2"
+        },
+        {
+          "titulo": "Curso de Java #02 - Como Funciona o Java - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=v_ZCtgwbS3o&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=3"
+        },
+        {
+          "titulo": "Exercícios de Java #02 - Curso de Java para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=bIXDystGxj0&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=4"
+        },
+        {
+          "titulo": "Curso de Java #03 - Instalando o JDK no seu Computador - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=yWU5bm_pZzY&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=5"
+        },
+        {
+          "titulo": "Exercícios de Java #03 - Curso de Java para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=gsp1H0-FVGI&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=6"
+        },
+        {
+          "titulo": "Curso de Java #04 - Primeiro Programa em Java - Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=ijXXaIYsVx4&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=8"
+        },
+        {
+          "titulo": "Exercícios de Java #04 - Curso de Java",
+          "url": "https://www.youtube.com/watch?v=H7Qpt8NRpDw&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=9"
+        },
+        {
+          "titulo": "Curso de Java #05 - Introdução ao Swing e JavaFX",
+          "url": "https://www.youtube.com/watch?v=cYMruFKwqf0&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=10"
+        },
+        {
+          "titulo": "Exercícios de Java #05 - Curso de Java",
+          "url": "https://www.youtube.com/watch?v=UaTZTP50i08&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=11"
+        }        
+      ]
+    },
+    {
+      "titulo": "Java POO",
+      "cor": "#DC1A28",
+      "link_extra": {
+        "text": "Curso em Vídeo",
+        "url": "https://www.youtube.com/user/cursosemvideo"
+      },
+      "videos": [
+        {
+          "titulo": "Curso POO Java #01b - Instalando o JDK e NetBeans",
+          "url": "https://www.youtube.com/watch?v=Ucyx_QPfDng&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=2"
+        },
+        {
+          "titulo": "Curso POO Java #02b - Criando Classes e Objetos em Java",
+          "url": "https://www.youtube.com/watch?v=wNaoX6VOj54&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=4"
+        },
+        {
+          "titulo": "Curso POO Java #03b - Configurando Visibilidade de Atributos e Métodos",
+          "url": "https://www.youtube.com/watch?v=LV2243j4RTQ&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=7"
+        },
+        {
+          "titulo": "Curso POO Java #04b - Métodos Getter, Setter e Construtor",
+          "url": "https://www.youtube.com/watch?v=6i-_R5cAcEc&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=9"
+        },
+        {
+          "titulo": "Curso POO Java #05b - Exemplo Prático em Java",
+          "url": "https://www.youtube.com/watch?v=hOC461osYgk&list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY&index=11"
+        }
+      ]
+    },
+    {
+      "titulo": "Java + Banco de Dados",
+      "cor": "#DC1A28",
+      "link_extra": {
+        "text": "While True",
+        "url": "https://www.youtube.com/channel/UCI4mJ2FXeA-RuDbwZA0z_MA"
+      },
+      "videos": [
+        {
+          "titulo": "Banco de Dados em Java - Aula 01 - Apresentação do projeto e conteúdo",
+          "url": "https://www.youtube.com/watch?v=YYPIM7D8oU0&list=PLJIP7GdByOyvpQ7EbzucVHocSAG7_EZQZ"
+        },
+        {
+          "titulo": "Banco de Dados em Java - Aula 02 - Configurando Ambiente - Instalando Netbeans, Java e Postgresql",
+          "url": "https://www.youtube.com/watch?v=dLJrsLgkLls&list=PLJIP7GdByOyvpQ7EbzucVHocSAG7_EZQZ&index=2"
+        },
+        {
+          "titulo": "Banco de Dados em Java - Aula 03 - Criando tela de login e cadastro",
+          "url": "https://www.youtube.com/watch?v=wS0pejrkusU&list=PLJIP7GdByOyvpQ7EbzucVHocSAG7_EZQZ&index=3"
+        },
+        {
+          "titulo": "Banco de Dados em Java - Aula 04 - Adicionando um usuário no banco de dados",
+          "url": "https://www.youtube.com/watch?v=K6sZ8e2_46w&list=PLJIP7GdByOyvpQ7EbzucVHocSAG7_EZQZ&index=4"
+        }, 
+        {
+          "titulo": "Banco de Dados em Java - Aula 05 - Trabalhando no Design do código Padrão DAO",
+          "url": "https://www.youtube.com/watch?v=FfVGmPlvrj0&list=PLJIP7GdByOyvpQ7EbzucVHocSAG7_EZQZ&index=5"
+        }
+      ]
+    },
+    {
+      "titulo": "Java - Android Studio",
+      "cor": "#DC1A28",
+      "link_extra": {
+        "text": "Faus Cursos",
+        "url": "https://www.youtube.com/channel/UC8y2Hxt-zggj6dGb-L6d_2A"
+      },
+      "videos": [
+        {
+          "titulo": "Introdução #01",
+          "url": "https://www.youtube.com/watch?v=r-b-gQySpto&list=PLLkSed0543sLaNR9M2JWT0Ps1_eZHqpDa"
+        },
+        {
+          "titulo": "Instalação Java #02",
+          "url": "https://www.youtube.com/watch?v=IbSmu49lemA&list=PLLkSed0543sLaNR9M2JWT0Ps1_eZHqpDa&index=2"
+        },
+        {
+          "titulo": "Instalação Android Studio #03",
+          "url": "https://www.youtube.com/watch?v=Q8ATmJf_sWE&list=PLLkSed0543sLaNR9M2JWT0Ps1_eZHqpDa&index=3"
+        },
+        {
+          "titulo": "Instalação Eclipse #04",
+          "url": "https://www.youtube.com/watch?v=I4LkFTDitKc&list=PLLkSed0543sLaNR9M2JWT0Ps1_eZHqpDa&index=4"
+        },
+        {
+          "titulo": "Emulador Nativo #05",
+          "url": "https://www.youtube.com/watch?v=dSMeQiJ1tL4&list=PLLkSed0543sLaNR9M2JWT0Ps1_eZHqpDa&index=5"
+        }
+      ]
+    },
+    {
+      "titulo": "Java - Game",
+      "cor": "#DC1A28",
+      "link_extra": {
+        "text": "ForeignGuyMike",
+        "url": "https://www.youtube.com/channel/UC_IV37n-uBpRp64hQIwywWQ"
+      },
+      "videos": [
+        {
+          "titulo": "Java 2D Game Programming Platformer Tutorial - Part 1 - The Game State Manager",
+          "url": "https://www.youtube.com/watch?v=9dzhgsVaiSo&list=PL-2t7SM0vDfcIedoMIghzzgQqZq45jYGv"
+        },
+        {
+          "titulo": "Java 2D Game Programming Platformer Tutorial - Part 2 - Tilemap",
+          "url": "https://www.youtube.com/watch?v=qJpdRFvSj1A&list=PL-2t7SM0vDfcIedoMIghzzgQqZq45jYGv&index=2"
+        },
+        {
+          "titulo": "Java 2D Game Programming Platformer Tutorial - Part 3 - MapObject Superclass",
+          "url": "https://www.youtube.com/watch?v=z9llRG1lLOU&list=PL-2t7SM0vDfcIedoMIghzzgQqZq45jYGv&index=3"
+        }
+      ]
+    },
+    {
+      "titulo": "Java Flat Design UI",
+      "cor": "#DC1A28",
+      "link_extra": {
+        "text": "KeepToo",
+        "url": "https://www.youtube.com/channel/UCJLK4lzsBtGtxr9aj-6Ok8Q"
+      },
+      "videos": [
+        {
+          "titulo": "java swing ui - a sample dark ui",
+          "url": "https://www.youtube.com/watch?v=52Q8nifAaao&list=PLlGZc17KPrVCGRKtgbdvnGshN8AePlqpd"
+        },
+        {
+          "titulo": "java swing ui custom titlebar - free code",
+          "url": "https://www.youtube.com/watch?v=Mg_hzygPb2c&list=PLlGZc17KPrVCGRKtgbdvnGshN8AePlqpd&index=2"
+        },
+        {
+          "titulo": "How to design a modern Java Swing UI inspiration using Netbeans [ Free Code ]",
+          "url": "https://www.youtube.com/watch?v=SpKANTHXwmo&list=PLlGZc17KPrVCGRKtgbdvnGshN8AePlqpd&index=15"
+        }
+      ]
+    }
+  ]
+}
