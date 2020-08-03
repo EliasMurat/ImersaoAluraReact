@@ -4,13 +4,13 @@
       "id": 1,
       "nome": "Java para Iniciantes",
       "descricao": "Java é facil",
-      "cor": "#000"
+      "cor": "#DC1A28"
     },
     {
       "id": 2,
       "nome": "Java POO",
       "descricao": "Java é mto facil",
-      "cor": "#FFF"
+      "cor": "#DC1A28"
     }
   ]
 }
