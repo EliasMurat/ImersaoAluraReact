@@ -2,7 +2,30 @@
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
 }
+/**/
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+  background: #000;
+}
 
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #212121; 
+  border-radius: 5px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #db2c38; 
+  border-radius: 5px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #DC1A28; 
+}
+/**/
 :root {
   --primary: #DC1A28;
   --black: #000000;
