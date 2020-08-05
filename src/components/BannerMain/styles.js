@@ -111,6 +111,8 @@ export const WatchButton = styled.button`
   outline: none;
   border-radius: 5px;
   text-decoration: none;
+  text-align: center;
+  width: 30%;
   display: inline-block;
   border: 1px solid transparent;
   color: var(--black);
